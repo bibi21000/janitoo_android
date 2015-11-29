@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/connection_text_view.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/connection_text_view.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/list_view_text_view.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/list_view_text_view.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/activity_new_connection.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/activity_new_connection.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/activity_publish.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/activity_publish.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/activity_connection_details.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/activity_connection_details.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/activity_values_user.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/activity_values_user.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/activity_values_basic.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/activity_values_basic.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/activity_advanced.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/activity_advanced.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/client_connections.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/client_connections.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/filedialogitem.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/filedialogitem.xml"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/layout/activity_subscribe.xml",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/layout/activity_subscribe.xml"
+    }
+]

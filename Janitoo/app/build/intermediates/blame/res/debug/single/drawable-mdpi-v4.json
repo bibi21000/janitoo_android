@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrow.png",
+        "source": "/home/sebastien/devel/janitoo/janitoo_android/Janitoo/app/src/main/res/drawable-mdpi/arrow.png"
+    }
+]
